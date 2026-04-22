@@ -1,3 +1,4 @@
+<img width="694" height="436" alt="Bildschirmfoto 2026-04-22 um 18 08 49" src="https://github.com/user-attachments/assets/e73971eb-48bd-4e33-9881-f1c45c0b52d8" />
 # Claude Code Context Tracker
 
 A lightweight status line extension for [Claude Code](https://claude.com/claude-code) that shows your **current context usage** below the input prompt, with proactive hints to help you avoid wasting tokens.
@@ -6,6 +7,7 @@ A lightweight status line extension for [Claude Code](https://claude.com/claude-
 Model: claude-sonnet-4-6
 Context: 85k / 167k (51%)
 ```
+<img width="694" height="436" alt="Bildschirmfoto 2026-04-22 um 18 08 49" src="https://github.com/user-attachments/assets/79ca2386-c1df-4b07-9a61-fd61797259df" />
 
 When usage gets high, it surfaces actionable tips automatically:
 
